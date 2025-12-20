@@ -1,0 +1,22 @@
+command_id: 7E0.0134
+test_cases:
+- expected_values:
+    LAMBDA11_CURRENT: 0.95746
+    O2S11_CURRENT: -0.10547
+  response: 7E80641347A8E7FE5
+- expected_values:
+    LAMBDA11_CURRENT: 1.96094
+    O2S11_CURRENT: 0.62109
+  response: 7E8064134FB00809F
+- expected_values:
+    LAMBDA11_CURRENT: 1.99
+    O2S11_CURRENT: 0.64844
+  response: 7E8064134FFFF80A6
+- expected_values:
+    LAMBDA11_CURRENT: 1.99
+    O2S11_CURRENT: 0.94922
+  response: 7E8064134FFFF80F3
+- expected_values:
+    LAMBDA11_CURRENT: 1.99
+    O2S11_CURRENT: 1.0625
+  response: 7E8064134FFFF8110

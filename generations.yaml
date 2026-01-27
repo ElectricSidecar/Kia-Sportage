@@ -1,7 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Sportage"
+
 generations:
-  - name: "First Generation (NB-7)"
+  - name: "First Generation (NB)"
     start_year: 1993
-    end_year: 2004
+    end_year: 2002
     description: "The original Kia Sportage was a compact SUV built on a traditional body-on-frame platform, making it one of the smaller true off-road capable vehicles in its class. Available in both three-door and five-door configurations, it featured a boxy, utilitarian design. Power came from various four-cylinder engines depending on the market, including a 2.0L gasoline engine and diesel options in some regions. Four-wheel drive with low range was available, providing genuine off-road capability. The interior was basic and functional rather than luxurious. Though it lacked refinement compared to competitors, the first-generation Sportage established the nameplate and offered affordable utility and off-road ability in a compact package."
 
   - name: "Second Generation (JE/KM)"
@@ -20,6 +23,6 @@ generations:
     description: "The fourth generation Sportage continued the bold styling direction with an even more distinctive front end featuring high-mounted headlights and a larger grille. The interior saw significant improvements in material quality, technology integration, and noise isolation. Slightly larger than its predecessor, it offered more passenger and cargo space. Powertrain options remained similar to the previous generation in most markets, with 2.4L naturally aspirated and 2.0L turbocharged engines in North America, alongside various diesel options in other regions. Technology features expanded considerably to include larger touchscreens, advanced driver assistance systems, and improved connectivity. Handling and ride quality were refined, making this generation more competitive with segment leaders. The fourth generation Sportage achieved stronger sales globally, particularly in European markets where its styling and feature set helped it stand out in the crowded compact crossover segment."
 
   - name: "Fifth Generation (NQ5)"
-    start_year: 2022
+    start_year: 2021
     end_year: null
     description: "The fifth generation Sportage represents the most dramatic redesign in the model's history, with a bold, futuristic exterior featuring boomerang-shaped LED daytime running lights, a wide tiger-nose grille, and distinct angular lines throughout. For the first time, Kia offers market-specific versions with different dimensions, with the North American model being notably larger than its European counterpart. The interior takes a massive leap forward with a curved display panel housing dual 12.3-inch screens, touch-sensitive climate controls, and premium materials throughout. Powertrain options expanded significantly to include a 2.5L four-cylinder base engine, hybrid and plug-in hybrid variants combining a 1.6L turbocharged engine with electric motors, and a range of diesel options in global markets. The X-Pro trim targets outdoor enthusiasts with all-terrain tires, enhanced all-wheel drive modes, and rugged styling elements. Advanced driver assistance systems come standard, including forward collision avoidance, lane keeping assist, and highway driving assist. This generation positions the Sportage as a technology showcase competing with premium compact crossovers while maintaining Kia's value proposition."

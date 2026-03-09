@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.22E004
+test_cases:
+- expected_values:
+    SPORTAGE_22E004: 100
+  response: |-
+    7E8101A62E004FFFF07
+    7E82100FDD1C870F276
+    7E822FB80B88030D4F7
+    7E823001032001000AA
